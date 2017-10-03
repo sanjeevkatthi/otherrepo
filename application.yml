@@ -1,0 +1,4 @@
+message:  
+  greeting: Hello from the configuration this is default for all applications.....!!!!
+server:
+  port:8000
